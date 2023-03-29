@@ -1,1 +1,1 @@
-# FDTD-Analisys-Of-Standing-Wave-Patterns-In-Biological-Tissues-
+# FDTD Analisys Of Standing Wave Patterns In Biological Tissues
